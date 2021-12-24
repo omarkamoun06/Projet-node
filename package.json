@@ -1,0 +1,26 @@
+{
+  "name": "projet_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarkamoun06/Projet-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarkamoun06/Projet-node/issues"
+  },
+  "homepage": "https://github.com/omarkamoun06/Projet-node#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "git": "^0.1.5",
+    "npm-git-install": "^0.3.0"
+  }
+}
